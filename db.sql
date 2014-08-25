@@ -1,0 +1,5 @@
+CREATE TABLE data(
+	id PRIMARY KEY NOT NULL,
+	name TEXT NOT NULL,
+	age TEXT NOT NULL
+); 
