@@ -54,5 +54,5 @@ http://guidetodatamining.com/chapter-6/
 http://www.cs.nyu.edu/~mohri/mlu/mlu_lecture_1.pdf
 --courant intro to data science
 
-
-
+http://stackoverflow.com/questions/101268/hidden-features-of-python
+--the extra stuff in python that gets mentioned less but is still useful
